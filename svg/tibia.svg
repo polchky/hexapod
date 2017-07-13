@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.2079065045mm"
+   height="115.093153762mm"
+   viewBox="0 0 49.2079065045 115.093153762"
+   version="1.1"
+   id="svg3409"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tibia.svg">
+  <metadata
+     id="metadata3428">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3426" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview3424"
+     showgrid="false"
+     inkscape:zoom="2.1431528"
+     inkscape:cx="18.122222"
+     inkscape:cy="222.56929"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Sketch" />
+  <g
+     id="Sketch"
+     transform="translate(24.340656,5.880644) scale(1,-1)">
+    <circle
+       cx="0.0"
+       cy="0.0"
+       r="0.0"
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle3412" />
+    <path
+       id="Sketch_w0001"
+       d="M -5.9 -2.9 L 5.9 -2.9 L 5.9 -25.4 L -5.9 -25.4 L -5.9 -2.9 "
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="0.0"
+       cy="-28.3"
+       r="1.5"
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle3415" />
+    <path
+       id="Sketch_w0003"
+       d="M 12.1568538347 -9.67634733067 A 12.2859474602 12.2859474602 0 1 1 -12.2823513642 -7.60276278242 A 140.0 140.0 0 0 1 20.6916777996 -101.290009227 A 2.0 2.0 0 0 1 24.0548019008 -99.203990594 A 165.0 165.0 0 0 0 12.1568538347 -9.67634733068 "
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
+    <path
+       id="Sketch_w0004"
+       d="M -5.56406819885 -32.6204050473 L 5.10387737224 -30.8885106616 A 2.0 2.0 0 0 0 7.42435691473 -32.8705528054 A 168.0 168.0 0 0 1 8.08558516694 -48.4386579195 A 2.0 2.0 0 0 0 6.71470283501 -50.5171757875 L -0.631566849 -52.9177818532 A 2.0 2.0 0 0 0 -3.16286322472 -51.6097080318 A 137.0 137.0 0 0 0 -7.21276211871 -34.9442641776 A 2.0 2.0 0 0 0 -5.56406819885 -32.6204050473 "
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <path
+       id="Sketch_w0005"
+       d="M 0.646005115819 -56.6424687453 L 6.30397730353 -54.6090695946 A 2.0 2.0 0 0 0 8.96206932355 -56.2211184001 A 168.0 168.0 0 0 1 14.0456767211 -80.2380484159 A 2.0 2.0 0 0 0 10.412633975 -81.828203622 A 137.0 137.0 0 0 0 -0.549493046864 -59.2288372416 A 2.0 2.0 0 0 0 0.646005115819 -56.6424687453 "
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="0.0"
+       cy="0.0"
+       r="1.5"
+       stroke="#0000ff"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle3420" />
+    <title
+       id="title3422">Sketch</title>
+  </g>
+</svg>
