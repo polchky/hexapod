@@ -1,26 +1,194 @@
-<?xml version="1.0"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="137.03404234mm" height="130.720933548mm" viewBox="0 0 137.03404234 130.720933548" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch" transform="translate(68.517021,65.360467) scale(1,-1)">
-<path id="Sketch_w0000"  d="M 38.0 5.9 L 60.5 5.9 L 60.5 -5.9 L 38.0 -5.9 L 38.0 5.9 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="63.5" cy="7.51128706779e-17" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="35.0" cy="-1.0464043504e-24" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch_w0003"  d="M -60.5 5.9 L -38.0 5.9 L -38.0 -5.9 L -60.5 -5.9 L -60.5 5.9 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="-35.0" cy="1.21165659704e-24" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-63.5" cy="2.19595974456e-16" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch_w0006"  d="M -50.1284446563 -46.462345994 L -27.947440524 -42.6870240628 L -25.9674939112 -54.3197284522 L -48.1484980435 -58.0950503834 L -50.1284446563 -46.462345994 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="-24.0" cy="-48.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-52.0959385675" cy="-52.7820744462" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch_w0009"  d="M 25.9674939112 54.3197284522 L 48.1484980435 58.0950503834 L 50.1284446563 46.462345994 L 27.947440524 42.6870240628 L 25.9674939112 54.3197284522 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="52.0959385675" cy="52.7820744462" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="24.0" cy="48.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch_w0012"  d="M 27.947440524 -42.6870240628 L 50.1284446563 -46.462345994 L 48.1484980435 -58.0950503834 L 25.9674939112 -54.3197284522 L 27.947440524 -42.6870240628 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="52.0959385675" cy="-52.7820744462" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="24.0" cy="-48.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch_w0015"  d="M -48.1484980435 58.0950503834 L -25.9674939112 54.3197284522 L -27.947440524 42.6870240628 L -50.1284446563 46.462345994 L -48.1484980435 58.0950503834 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="-24.0" cy="48.0" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-52.0959385675" cy="52.7820744462" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch_w0018"  d="M 51.6727429295 -12.6661425084 A 13.0 13.0 0 1 1 51.6727426374 12.6661424409 A 13.2585139786 13.2585139786 0 1 0 45.9782872963 38.5629726135 A 13.0 13.0 0 0 1 40.6780464712 64.0169957641 A 200.0 200.0 0 0 0 -40.6780449092 64.0169954397 A 13.0 13.0 0 0 1 -45.9782877626 38.5629727109 A 13.2585139786 13.2585139786 0 1 0 -51.6727428276 12.6661424849 A 13.0 13.0 0 1 1 -51.6727431977 -12.6661425704 A 13.2585139786 13.2585139786 0 1 0 -45.9782865718 -38.5629724623 A 13.0 13.0 0 0 1 -40.6780463939 -64.0169957481 A 200.0 200.0 0 0 0 40.6780465354 -64.0169957775 A 13.0 13.0 0 0 1 45.9782872072 -38.5629725949 A 13.2585139786 13.2585139786 0 1 0 51.6727429295 -12.6661425084 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<title>Sketch</title>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="137.03404234mm"
+   height="130.720933548mm"
+   viewBox="0 0 137.03404234 130.720933548"
+   version="1.1"
+   id="svg4258"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="body.svg">
+  <metadata
+     id="metadata4298">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4296" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview4294"
+     showgrid="false"
+     inkscape:zoom="1.8869375"
+     inkscape:cx="263.97522"
+     inkscape:cy="252.79057"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Sketch" />
+  <g
+     id="Sketch"
+     transform="translate(68.517021,65.360467) scale(1,-1)">
+    <path
+       id="Sketch_w0000"
+       d="M 38.0 5.9 L 60.5 5.9 L 60.5 -5.9 L 38.0 -5.9 L 38.0 5.9 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="63.5"
+       cy="7.51128706779e-17"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4262" />
+    <circle
+       cx="35.0"
+       cy="-1.0464043504e-24"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4264" />
+    <path
+       id="Sketch_w0003"
+       d="M -60.5 5.9 L -38.0 5.9 L -38.0 -5.9 L -60.5 -5.9 L -60.5 5.9 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="-35.0"
+       cy="1.21165659704e-24"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4267" />
+    <circle
+       cx="-63.5"
+       cy="2.19595974456e-16"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4269" />
+    <path
+       id="Sketch_w0006"
+       d="M -50.1284446563 -46.462345994 L -27.947440524 -42.6870240628 L -25.9674939112 -54.3197284522 L -48.1484980435 -58.0950503834 L -50.1284446563 -46.462345994 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="-24.0"
+       cy="-48.0"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4272" />
+    <circle
+       cx="-52.0959385675"
+       cy="-52.7820744462"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4274" />
+    <path
+       id="Sketch_w0009"
+       d="M 25.9674939112 54.3197284522 L 48.1484980435 58.0950503834 L 50.1284446563 46.462345994 L 27.947440524 42.6870240628 L 25.9674939112 54.3197284522 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="52.0959385675"
+       cy="52.7820744462"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4277" />
+    <circle
+       cx="24.0"
+       cy="48.0"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4279" />
+    <path
+       id="Sketch_w0012"
+       d="M 27.947440524 -42.6870240628 L 50.1284446563 -46.462345994 L 48.1484980435 -58.0950503834 L 25.9674939112 -54.3197284522 L 27.947440524 -42.6870240628 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="52.0959385675"
+       cy="-52.7820744462"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4282" />
+    <circle
+       cx="24.0"
+       cy="-48.0"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4284" />
+    <path
+       id="Sketch_w0015"
+       d="M -48.1484980435 58.0950503834 L -25.9674939112 54.3197284522 L -27.947440524 42.6870240628 L -50.1284446563 46.462345994 L -48.1484980435 58.0950503834 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd " />
+    <circle
+       cx="-24.0"
+       cy="48.0"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4287" />
+    <circle
+       cx="-52.0959385675"
+       cy="52.7820744462"
+       r="1.5"
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
+       id="circle4289" />
+    <path
+       id="Sketch_w0018"
+       d="M 51.6727429295 -12.6661425084 A 13.0 13.0 0 1 1 51.6727426374 12.6661424409 A 13.2585139786 13.2585139786 0 1 0 45.9782872963 38.5629726135 A 13.0 13.0 0 0 1 40.6780464712 64.0169957641 A 200.0 200.0 0 0 0 -40.6780449092 64.0169954397 A 13.0 13.0 0 0 1 -45.9782877626 38.5629727109 A 13.2585139786 13.2585139786 0 1 0 -51.6727428276 12.6661424849 A 13.0 13.0 0 1 1 -51.6727431977 -12.6661425704 A 13.2585139786 13.2585139786 0 1 0 -45.9782865718 -38.5629724623 A 13.0 13.0 0 0 1 -40.6780463939 -64.0169957481 A 200.0 200.0 0 0 0 40.6780465354 -64.0169957775 A 13.0 13.0 0 0 1 45.9782872072 -38.5629725949 A 13.2585139786 13.2585139786 0 1 0 51.6727429295 -12.6661425084 "
+       stroke="#000000"
+       stroke-width="0.35 px"
+       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
+    <title
+       id="title4292">Sketch</title>
+  </g>
 </svg>
