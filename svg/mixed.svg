@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1321"
+     inkscape:window-width="1089"
      inkscape:window-height="1008"
      id="namedview3688"
      showgrid="false"
-     inkscape:zoom="1.0141925"
-     inkscape:cx="572.76173"
-     inkscape:cy="449.92483"
+     inkscape:zoom="0.26012326"
+     inkscape:cx="832.34828"
+     inkscape:cy="555.67632"
      inkscape:window-x="-7"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Sketch005-7"
+     inkscape:current-layer="Sketch"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -1305,6 +1305,131 @@
                  cy="-77.572281"
                  cx="176.6684"
                  transform="rotate(-90)" />
+              <g
+                 transform="translate(-141.23977,-6.9977624)"
+                 id="Sketch">
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="M 222.58478,21.820493 V -0.67950711 h -11.8 V 21.820493 h 11.8"
+                   id="Sketch_w0000"
+                   inkscape:connector-curvature="0" />
+                <circle
+                   id="circle6284"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="216.6848"
+                   cx="3.6795022"
+                   transform="rotate(-90)" />
+                <circle
+                   id="circle6286"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="216.6848"
+                   cx="-24.820498"
+                   transform="rotate(-90)" />
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 210.78478,127.8205 v 22.5 h 11.8 v -22.5 h -11.8"
+                   id="Sketch_w0003-4"
+                   inkscape:connector-curvature="0" />
+                <circle
+                   id="circle6289"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="216.6848"
+                   cx="-153.3205"
+                   transform="rotate(-90)" />
+                <circle
+                   id="circle6291"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="216.6848"
+                   cx="-124.82048"
+                   transform="rotate(-90)" />
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 298.29985,34.595023 9.50891,-20.39193 -10.69443,-4.9868901 -9.50891,20.3919201 10.69443,4.9869"
+                   id="Sketch_w0006"
+                   inkscape:connector-curvature="0" />
+                <circle
+                   id="circle6294"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="303.72937"
+                   cx="-8.9907236"
+                   transform="rotate(-90)" />
+                <circle
+                   id="circle6296"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="291.68475"
+                   cx="-34.820496"
+                   transform="rotate(-90)" />
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 287.60542,120.03288 9.50891,20.39192 10.69443,-4.9869 -9.50891,-20.39192 -10.69443,4.9869"
+                   id="Sketch_w0009"
+                   inkscape:connector-curvature="0" />
+                <circle
+                   id="circle6299"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="303.72937"
+                   cx="-140.65025"
+                   transform="rotate(-90)" />
+                <circle
+                   id="circle6301"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="291.68475"
+                   cx="-114.8205"
+                   transform="rotate(-90)" />
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 136.25524,9.2162029 -10.69443,4.9868901 9.50891,20.39193 10.69443,-4.9869 -9.50891,-20.3919201"
+                   id="Sketch_w0012"
+                   inkscape:connector-curvature="0" />
+                <circle
+                   id="circle6304"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="129.64018"
+                   cx="-8.9907236"
+                   transform="rotate(-90)" />
+                <circle
+                   id="circle6306"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="141.6848"
+                   cx="-34.820496"
+                   transform="rotate(-90)" />
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 125.56081,135.4379 10.69443,4.9869 9.50891,-20.39192 -10.69443,-4.9869 -9.50891,20.39192"
+                   id="Sketch_w0015"
+                   inkscape:connector-curvature="0" />
+                <circle
+                   id="circle6309"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="129.64018"
+                   cx="-140.65025"
+                   transform="rotate(-90)" />
+                <circle
+                   id="circle6311"
+                   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   r="1.2"
+                   cy="141.6848"
+                   cx="-114.8205"
+                   transform="rotate(-90)" />
+                <path
+                   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   d="m 203.68479,5.2204929 a 13,13 0 1 1 25.99999,0 29.594455,29.594455 0 0 0 58.50132,6.3423301 13.000001,13.000001 0 1 1 23.564,10.98808 123.6804,123.6804 0 0 0 0,104.539197 13,13 0 0 1 -23.564,10.98807 31.082527,31.082527 0 0 0 -58.50132,6.34233 13,13 0 1 1 -25.99999,0 29.594455,29.594455 0 0 0 -58.50132,-6.34233 13,13 0 0 1 -23.564,-10.98807 123.68062,123.68062 0 0 0 0,-104.539197 13,13 0 1 1 23.564,-10.98808 31.082522,31.082522 0 0 0 58.50132,-6.3423301"
+                   id="Sketch_w0018"
+                   inkscape:connector-curvature="0" />
+                <title
+                   id="title6314">body</title>
+              </g>
             </g>
             <g
                transform="translate(-182.85053,-15.69595)"
