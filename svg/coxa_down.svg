@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="38.0233729584mm" height="20.7455563325mm" viewBox="0 0 38.0233729584 20.7455563325" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch005" transform="translate(-20.937247,6.660370) scale(1,-1)">
-<path id="Sketch005_w0000"  d="M 58.587842 -10.712408 L 58.587842 3.287592 L 56.587842 3.287592 L 56.587842 6.287592 L 53.587842 6.287592 L 53.587842 3.287592 L 41.787842 3.287592 L 41.787842 6.287592 L 38.787842 6.287592 L 38.787842 3.287592 L 36.787842 3.287592 A 15.5 7.0 -0.0 1 1 36.787842 -10.712408 L 38.787842 -10.712408 L 38.787842 -13.712408 L 41.787842 -13.712408 L 41.787842 -10.712408 L 53.587842 -10.712408 L 53.587842 -13.712408 L 56.587842 -13.712408 L 56.587842 -10.712408 L 58.587842 -10.712408 " stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="24.787842" cy="-3.712408" r="1.5" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<svg width="35.4952985784mm" height="20.6959862466mm" viewBox="0 0 35.4952985784 20.6959862466" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch005" transform="translate(-34.151480,6.330447) scale(1,-1)">
+<path id="Sketch005_w0000"  d="M 51.498785196 2.98245350938 L 51.498785196 5.98245350938 L 54.498785196 5.98245350938 L 54.498785196 2.98245350938 L 66.298785196 2.98245350938 L 66.298785196 5.98245350938 L 69.298785196 5.98245350938 L 69.298785196 -14.0175464906 L 66.298785196 -14.0175464906 L 66.298785196 -11.0175464906 L 54.498785196 -11.0175464906 L 54.498785196 -14.0175464906 L 51.498785196 -14.0175464906 L 51.498785196 -11.0175464906 A 17.0 7.0 -2.84217094304e-14 0 0 51.498785196 2.98245350938 " stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="38.498785196" cy="-4.01754649062" r="1.5" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>coxa_down</title>
 </g>
 </svg>
