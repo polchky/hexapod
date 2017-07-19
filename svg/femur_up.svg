@@ -1,94 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="82.4491165364mm"
-   height="16.6657808947mm"
-   viewBox="0 0 82.4491165364 16.6657808947"
-   version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="femur_up.svg">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs18" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     id="namedview16"
-     showgrid="false"
-     inkscape:zoom="2.0400999"
-     inkscape:cx="20.590376"
-     inkscape:cy="-16.141928"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Sketch" />
-  <g
-     id="Sketch"
-     transform="translate(41.224558,8.332890) scale(1,-1)">
-    <path
-       id="Sketch_w0000"
-       d="M -28.83725275 7.52456580343 A 360.084130461 360.084130461 0 0 1 28.8372518413 7.52456573042 A 10.5 7.57113088747 0.0 1 0 28.837251947 -7.52456573891 A 360.084130461 360.084130461 0 0 1 -28.8372520531 -7.52456574744 A 10.5 7.57113088747 0.0 1 0 -28.8372527501 7.52456580343 "
-       stroke="#0000ff"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule:evenodd;stroke:#006633;stroke-opacity:1" />
-    <circle
-       cx="-37.0"
-       cy="0.0"
-       r="1.5"
-       stroke="#0000ff"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle6" />
-    <circle
-       cx="-23.0"
-       cy="0.0"
-       r="1.5"
-       stroke="#0000ff"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle8" />
-    <circle
-       cx="23.0"
-       cy="0.0"
-       r="1.5"
-       stroke="#0000ff"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle10" />
-    <circle
-       cx="37.0"
-       cy="0.0"
-       r="1.5"
-       stroke="#0000ff"
-       stroke-width="0.35 px"
-       style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"
-       id="circle12" />
-    <title
-       id="title14">Sketch</title>
-  </g>
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="63.132317269mm" height="12.2378885739mm" viewBox="0 0 63.132317269 12.2378885739" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch004" transform="translate(20.532618,22.822137) scale(1,-1)">
+<circle cx="31.033540984" cy="16.703193" r="3.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-8.96645901604" cy="16.703193" r="3.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch004_w0002"  d="M 31.033540984 11.203193 A 11.0 5.5 -0.0 0 1 31.033540984 22.203193 L 14.8856499539 22.203193 L 15.5626838981 20.6903967133 L 12.8244023452 19.4649114472 L 11.5989170791 22.203193 L 10.6917180465 22.203193 L 9.75273619336 19.3539276421 L 6.9034708355 20.2929094953 L 7.53300909185 22.203193 L -8.96645901604 22.203193 A 11.0 5.5 -0.0 1 1 -8.96645901604 11.203193 L 3.90793417355 11.203193 L 4.84691602667 14.0524583579 L 7.69618138453 13.1134765047 L 7.06664312818 11.203193 L 16.5218359489 11.203193 L 15.8448020047 12.7159892867 L 18.5830835575 13.9414745528 L 19.8085688236 11.203193 L 31.033540984 11.203193 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="11.5854938773" cy="15.4078786611" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="24.033540984" cy="16.703193" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-1.96645901604" cy="16.703193" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="38.033540984" cy="16.703193" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-15.966459016" cy="16.703193" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>femur_up</title>
+</g>
 </svg>
