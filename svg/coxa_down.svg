@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="35.4952985784mm" height="20.6959862466mm" viewBox="0 0 35.4952985784 20.6959862466" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch005" transform="translate(-34.151480,6.330447) scale(1,-1)">
-<path id="Sketch005_w0000"  d="M 51.498785196 2.98245350938 L 51.498785196 5.98245350938 L 54.498785196 5.98245350938 L 54.498785196 2.98245350938 L 66.298785196 2.98245350938 L 66.298785196 5.98245350938 L 69.298785196 5.98245350938 L 69.298785196 -14.0175464906 L 66.298785196 -14.0175464906 L 66.298785196 -11.0175464906 L 54.498785196 -11.0175464906 L 54.498785196 -14.0175464906 L 51.498785196 -14.0175464906 L 51.498785196 -11.0175464906 A 17.0 7.0 -2.84217094304e-14 0 0 51.498785196 2.98245350938 " stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="38.498785196" cy="-4.01754649062" r="1.5" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<svg width="35.4928740935mm" height="22.1959387077mm" viewBox="0 0 35.4928740935 22.1959387077" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch005" transform="translate(-34.362962,7.080421) scale(1,-1)">
+<path id="Sketch005_w0000"  d="M 51.7078671569 3.73245165739 L 51.7078671569 6.73245165739 L 54.7078671569 6.73245165739 L 54.7078671569 3.73245165739 L 66.5078671569 3.73245165739 L 66.5078671569 6.73245165739 L 69.5078671569 6.73245165739 L 69.5078671569 -14.7675483426 L 66.5078671569 -14.7675483426 L 66.5078671569 -11.7675483426 L 54.7078671569 -11.7675483426 L 54.7078671569 -14.7675483426 L 51.7078671569 -14.7675483426 L 51.7078671569 -11.7675483426 A 17.0 7.75 -1.42108547152e-13 0 0 51.7078671569 3.73245165739 " stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="38.7078671569" cy="-4.01754834261" r="1.5" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>coxa_down</title>
 </g>
 </svg>

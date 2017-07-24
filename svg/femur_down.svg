@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="51.738691394mm" height="12.014484145mm" viewBox="0 0 51.738691394 12.014484145" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch003" transform="translate(20.742769,43.912255) scale(1,-1)">
-<circle cx="25.1265767063" cy="37.905013231" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-14.8734232937" cy="37.905013231" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch003_w0002"  d="M 12.6761192798 35.1432947838 L 9.93783772701 33.9178095177 L 10.6148716712 32.405013231 L 1.15967885048 32.405013231 L 1.78921710683 34.3152967357 L -1.06004825103 35.2542785888 L -1.99903010416 32.405013231 L -14.8734231588 32.405013231 A 5.5 5.5 0 0 0 -14.8734236511 43.405013231 L 1.62604481415 43.405013231 L 0.996506557797 41.4947297262 L 3.84577191566 40.5557478731 L 4.78475376878 43.405013231 L 5.69195280142 43.405013231 L 6.91743806753 40.6667316781 L 9.65571962036 41.8922169442 L 8.97868567617 43.405013231 L 25.1265767383 43.405013231 A 5.5 5.5 0 0 0 25.1265779625 32.405013231 L 13.9016045459 32.405013231 L 12.6761192798 35.1432947838 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="5.67852959964" cy="36.6096988921" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<svg width="72.42mm" height="12.42mm" viewBox="0 0 72.42 12.42" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch003" transform="translate(17.622909,37.757209) scale(1,-1)">
+<circle cx="48.5870912797" cy="31.5472093948" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-11.4129087203" cy="31.5472093948" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch003_w0002"  d="M 31.8411090031 28.5044738117 L 29.3838445862 26.7834707364 L 29.8995025774 26.0472093948 L 7.27467998206 26.0472093948 L 7.7903379733 26.7834707364 L 5.33307355636 28.5044738117 L 3.61207048104 26.0472093948 L -11.4128940896 26.0472093948 A 5.5 5.5 0 1 0 -11.4128939874 37.0472093948 L 11.3161798548 37.0472093948 L 10.8005218636 36.3109480532 L 13.2577862805 34.5899449778 L 14.9787893559 37.0472093948 L 22.1953932036 37.0472093948 L 23.9163962789 34.5899449778 L 26.3736606958 36.3109480532 L 25.8580027046 37.0472093948 L 48.5870647275 37.0472093948 A 5.5 5.5 0 1 0 48.587064692 26.0472093949 L 33.5621120784 26.0472093948 L 31.8411090031 28.5044738117 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="18.5870912797" cy="31.5472093948" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>femur_down</title>
 </g>
 </svg>
