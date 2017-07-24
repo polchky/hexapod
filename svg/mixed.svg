@@ -7,1152 +7,1056 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="383.74649mm"
-   height="384.99747mm"
-   viewBox="0 0 383.74649 384.99746"
+   width="160.50429mm"
+   height="232.98506mm"
+   viewBox="0 0 160.50429 232.98506"
    version="1.1"
    id="svg3686"
    sodipodi:docname="mixed.svg"
-   inkscape:version="0.91 r13725">
-  <metadata
-     id="metadata3692">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs3690" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1131"
-     id="namedview3688"
-     showgrid="false"
-<<<<<<< HEAD
-     inkscape:zoom="0.81667379"
-     inkscape:cx="381.67042"
-     inkscape:cy="573.65118"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Sketch"
+   inkscape:version="0.92.1 r15371"><metadata
+   id="metadata3692">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      <dc:title></dc:title>
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+<defs
+   id="defs3690" />
+<sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview3688"
+   showgrid="false"
+   inkscape:zoom="1.1655488"
+   inkscape:cx="405.55113"
+   inkscape:cy="600.9467"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Sketch005-7"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:document-units="mm" />
+ HEAD
+     inkscape:zoom=&quot;0.81667379&quot;
+     inkscape:cx=&quot;381.67042&quot;
+     inkscape:cy=&quot;573.65118&quot;
+     inkscape:window-x=&quot;-7&quot;
+     inkscape:window-y=&quot;0&quot;
+     inkscape:window-maximized=&quot;0&quot;
+     inkscape:current-layer=&quot;Sketch&quot;
 =======
-     inkscape:zoom="0.36786984"
-     inkscape:cx="1926.0727"
-     inkscape:cy="461.7414"
-     inkscape:window-x="1680"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Sketch-36"
->>>>>>> 21c55758bc14e1bfc9153846a80b9260b04123a1
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:document-units="mm" />
+     inkscape:zoom=&quot;0.36786984&quot;
+     inkscape:cx=&quot;1926.0727&quot;
+     inkscape:cy=&quot;461.7414&quot;
+     inkscape:window-x=&quot;1680&quot;
+     inkscape:window-y=&quot;24&quot;
+     inkscape:window-maximized=&quot;1&quot;
+     inkscape:current-layer=&quot;Sketch-36&quot;
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 21c55758bc14e1bfc9153846a80b9260b04123a1
+     fit-margin-top=&quot;0&quot;
+     fit-margin-left=&quot;0&quot;
+     fit-margin-right=&quot;0&quot;
+     fit-margin-bottom=&quot;0&quot;
+     inkscape:document-units=&quot;mm&quot; /&gt;
   <g
-     id="Sketch005"
-     transform="matrix(1,0,0,-1,150.92515,-7.993453)">
+   id="Sketch005"
+   transform="matrix(1,0,0,-1,9.5722157,-152.72225)">
+  <title
+     id="title3683">coxa_down</title>
+  <g
+     transform="translate(102.20706,-150.39111)"
+     id="Sketch003">
     <title
-       id="title3683">coxa_down</title>
+       id="title5236">femur_down</title>
     <g
-       transform="translate(102.20706,-150.39111)"
-       id="Sketch003">
+       transform="translate(65.667616,114.17498)"
+       id="Sketch004">
       <title
-         id="title5236">femur_down</title>
+         id="title5388">femur_up</title>
       <g
-         transform="translate(65.667616,114.17498)"
-         id="Sketch004">
+         transform="translate(27.332144,-186.9533)"
+         id="Sketch005-0">
         <title
-           id="title5388">femur_up</title>
+           id="title5614">joint_coxa</title>
         <g
-           transform="translate(27.332144,-186.9533)"
-           id="Sketch005-0">
+           transform="translate(38.391713,17.28209)"
+           id="Sketch-1">
           <title
-             id="title5614">joint_coxa</title>
+             id="title5686">joint_tibia</title>
           <g
-             transform="translate(38.391713,17.28209)"
-             id="Sketch-1">
+             transform="translate(-177.63102,45.445523)"
+             id="Sketch005-7">
             <title
-               id="title5686">joint_tibia</title>
+               id="title6046">coxa_down</title>
             <g
-               transform="translate(-177.63102,45.445523)"
-               id="Sketch005-7">
+               transform="translate(30.94655,-254.20009)"
+               id="Sketch"><title
+   id="title6314">body</title>
+<g
+   id="g4495" />
+ HEAD
+                   transform=&quot;translate(30.990364,-254.69315)&quot;
+                   id=&quot;Sketch003-7&quot;&gt;
+                  <circle
+   id="circle4804"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="109.71048"
+   cx="-30.610922" />
+<circle
+   id="circle4806"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="109.71048"
+   cx="-90.610924" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.356905,106.66774 -2.457264,-1.721 0.515658,-0.73626 h -22.624823 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5,5.5 0 1 0 0,11 h 22.729074 l -0.515658,-0.73626 2.457264,-1.721 1.721003,2.45726 h 7.216604 l 1.721003,-2.45726 2.457265,1.721 -0.515658,0.73626 h 22.729062 a 5.5,5.5 0 1 0 0,-11 h -15.024953 l -1.721003,2.45726"
+   id="Sketch003_w0002"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="109.71048"
+   cx="-60.61092" />
+<title
+   id="title4811">femur_down</title>
+<circle
+   id="circle4804-4"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="97.29493"
+   cx="-30.676723" />
+<circle
+   id="circle4806-5"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="97.29493"
+   cx="-90.67672" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.422704,94.252201 -2.457265,-1.721 0.515657,-0.73626 h -22.624822 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000001,5.5000001 0 1 0 0,10.999999 h 22.729073 l -0.515657,-0.73626 2.457265,-1.721 1.721001,2.45726 h 7.216605 l 1.721004,-2.45726 2.457265,1.721 -0.51566,0.73626 h 22.729063 a 5.5000001,5.5000001 0 1 0 0,-10.999999 h -15.024952 l -1.721003,2.45726"
+   id="Sketch003_w0002-3"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809-6"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="97.29493"
+   cx="-60.67672" />
+<circle
+   id="circle4804-0"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="84.946716"
+   cx="-30.415258" />
+<circle
+   id="circle4806-6"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="84.946716"
+   cx="-90.41526" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.161242,81.903992 -2.457265,-1.721 0.51566,-0.73626 h -22.624824 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000001,5.5000001 0 1 0 0,11 h 22.729075 l -0.515659,-0.73626 2.457264,-1.721 1.721004,2.45726 h 7.216603 l 1.721003,-2.45726 2.457265,1.721 -0.515657,0.73626 h 22.72906 a 5.5000001,5.5000001 0 1 0 0,-11 h -15.024952 l -1.721003,2.45726"
+   id="Sketch003_w0002-6"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809-0"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="84.946716"
+   cx="-60.415253" />
+<circle
+   id="circle4804-4-5"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="72.531174"
+   cx="-30.481062" />
+<circle
+   id="circle4806-5-7"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="72.531174"
+   cx="-90.481056" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.227041,69.488449 -2.457265,-1.721 0.515657,-0.73626 h -22.624822 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000015,5.5000015 0 1 0 0,11.000003 h 22.729073 l -0.515657,-0.73626 2.457265,-1.721 1.721001,2.45726 h 7.216606 l 1.721003,-2.45726 2.457265,1.721 -0.51566,0.73626 h 22.729063 a 5.5000015,5.5000015 0 1 0 0,-11.000003 h -15.024952 l -1.721003,2.45726"
+   id="Sketch003_w0002-3-1"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809-6-9"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="72.531174"
+   cx="-60.481056" />
+<circle
+   id="circle4804-1"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="59.987553"
+   cx="-30.742174" />
+<circle
+   id="circle4806-55"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="59.987553"
+   cx="-90.74218" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.48816,56.944822 -2.457265,-1.721 0.51566,-0.73626 h -22.624824 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000001,5.5000001 0 1 0 0,11 h 22.729075 l -0.515659,-0.73626 2.457264,-1.721 1.721004,2.45726 h 7.216603 l 1.721003,-2.45726 2.457265,1.721 -0.515657,0.73626 h 22.72906 a 5.5000001,5.5000001 0 1 0 0,-11 h -15.024952 l -1.721003,2.45726"
+   id="Sketch003_w0002-1"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809-4"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="59.987553"
+   cx="-60.742172" />
+<circle
+   id="circle4804-4-2"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="47.57201"
+   cx="-30.807978" />
+<circle
+   id="circle4806-5-1"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="47.57201"
+   cx="-90.807976" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.553959,44.529281 -2.457265,-1.721 0.515657,-0.73626 h -22.624822 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000015,5.5000015 0 1 0 0,11.000001 h 22.729073 l -0.515657,-0.73626 2.457265,-1.721 1.721001,2.45726 h 7.216606 l 1.721003,-2.45726 2.457265,1.721 -0.51566,0.73626 h 22.729063 a 5.5000015,5.5000015 0 1 0 0,-11.000001 h -15.024952 l -1.721003,2.45726"
+   id="Sketch003_w0002-3-9"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809-6-1"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="47.57201"
+   cx="-60.807976" />
+<circle
+   id="circle4804-0-8"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="35.223797"
+   cx="-30.546511" />
+<circle
+   id="circle4806-6-1"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.5"
+   cy="35.223797"
+   cx="-90.546516" />
+<path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m -47.292498,32.181072 -2.457265,-1.720999 0.515662,-0.736261 h -22.624825 l 0.515658,0.736261 -2.457264,1.720999 -1.721003,-2.45726 H -90.5465 a 5.5000001,5.5000001 0 1 0 0,11 h 22.729074 l -0.515657,-0.73626 2.457262,-1.721 1.721004,2.45726 h 7.216605 l 1.721001,-2.45726 2.457265,1.721 -0.515657,0.73626 h 22.72906 a 5.5000001,5.5000001 0 1 0 0,-11 h -15.024952 l -1.721003,2.45726"
+   id="Sketch003_w0002-6-2"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4809-0-0"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   r="1.2"
+   cy="35.223797"
+   cx="-60.546509" />
+</g>
+            <g
+               transform="translate(109.18744,-21.278888)"
+               id="Sketch005-3">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -88.331129,5.3424623 h 35.500001 v -3 h -3 v -9.53 h 3 v -3.0000003 h -35.500001 v 3.0000003 l 3,-1.9e-5 v 9.530038 l -3,-1.9e-5 v 3"
+                 id="Sketch005_w0000"
+                 inkscape:connector-curvature="0" />
               <title
-                 id="title6046">coxa_down</title>
-              <g
-                 transform="translate(-141.23977,-6.9977624)"
-                 id="Sketch">
-                <title
-                   id="title6314">body</title>
-                <g
-<<<<<<< HEAD
-                   transform="translate(30.990364,-254.69315)"
-                   id="Sketch003-7">
-                  <circle
-                     id="circle4804"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="109.71048"
-                     cx="-30.610922" />
-                  <circle
-                     id="circle4806"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="109.71048"
-                     cx="-90.610924" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.356905,106.66774 -2.457264,-1.721 0.515658,-0.73626 h -22.624823 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5,5.5 0 1 0 0,11 h 22.729074 l -0.515658,-0.73626 2.457264,-1.721 1.721003,2.45726 h 7.216604 l 1.721003,-2.45726 2.457265,1.721 -0.515658,0.73626 h 22.729062 a 5.5,5.5 0 1 0 0,-11 h -15.024953 l -1.721003,2.45726"
-                     id="Sketch003_w0002"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="109.71048"
-                     cx="-60.61092" />
-                  <title
-                     id="title4811">femur_down</title>
-                  <circle
-                     id="circle4804-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="97.29493"
-                     cx="-30.676723" />
-                  <circle
-                     id="circle4806-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="97.29493"
-                     cx="-90.67672" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.422704,94.252201 -2.457265,-1.721 0.515657,-0.73626 h -22.624822 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000001,5.5000001 0 1 0 0,10.999999 h 22.729073 l -0.515657,-0.73626 2.457265,-1.721 1.721001,2.45726 h 7.216605 l 1.721004,-2.45726 2.457265,1.721 -0.51566,0.73626 h 22.729063 a 5.5000001,5.5000001 0 1 0 0,-10.999999 h -15.024952 l -1.721003,2.45726"
-                     id="Sketch003_w0002-3"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="97.29493"
-                     cx="-60.67672" />
-                  <circle
-                     id="circle4804-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="84.946716"
-                     cx="-30.415258" />
-                  <circle
-                     id="circle4806-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="84.946716"
-                     cx="-90.41526" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.161242,81.903992 -2.457265,-1.721 0.51566,-0.73626 h -22.624824 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000001,5.5000001 0 1 0 0,11 h 22.729075 l -0.515659,-0.73626 2.457264,-1.721 1.721004,2.45726 h 7.216603 l 1.721003,-2.45726 2.457265,1.721 -0.515657,0.73626 h 22.72906 a 5.5000001,5.5000001 0 1 0 0,-11 h -15.024952 l -1.721003,2.45726"
-                     id="Sketch003_w0002-6"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="84.946716"
-                     cx="-60.415253" />
-                  <circle
-                     id="circle4804-4-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="72.531174"
-                     cx="-30.481062" />
-                  <circle
-                     id="circle4806-5-7"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="72.531174"
-                     cx="-90.481056" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.227041,69.488449 -2.457265,-1.721 0.515657,-0.73626 h -22.624822 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000015,5.5000015 0 1 0 0,11.000003 h 22.729073 l -0.515657,-0.73626 2.457265,-1.721 1.721001,2.45726 h 7.216606 l 1.721003,-2.45726 2.457265,1.721 -0.51566,0.73626 h 22.729063 a 5.5000015,5.5000015 0 1 0 0,-11.000003 h -15.024952 l -1.721003,2.45726"
-                     id="Sketch003_w0002-3-1"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809-6-9"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="72.531174"
-                     cx="-60.481056" />
-                  <circle
-                     id="circle4804-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="59.987553"
-                     cx="-30.742174" />
-                  <circle
-                     id="circle4806-55"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="59.987553"
-                     cx="-90.74218" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.48816,56.944822 -2.457265,-1.721 0.51566,-0.73626 h -22.624824 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000001,5.5000001 0 1 0 0,11 h 22.729075 l -0.515659,-0.73626 2.457264,-1.721 1.721004,2.45726 h 7.216603 l 1.721003,-2.45726 2.457265,1.721 -0.515657,0.73626 h 22.72906 a 5.5000001,5.5000001 0 1 0 0,-11 h -15.024952 l -1.721003,2.45726"
-                     id="Sketch003_w0002-1"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="59.987553"
-                     cx="-60.742172" />
-                  <circle
-                     id="circle4804-4-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="47.57201"
-                     cx="-30.807978" />
-                  <circle
-                     id="circle4806-5-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="47.57201"
-                     cx="-90.807976" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.553959,44.529281 -2.457265,-1.721 0.515657,-0.73626 h -22.624822 l 0.515658,0.73626 -2.457264,1.721 -1.721003,-2.45726 h -15.024965 a 5.5000015,5.5000015 0 1 0 0,11.000001 h 22.729073 l -0.515657,-0.73626 2.457265,-1.721 1.721001,2.45726 h 7.216606 l 1.721003,-2.45726 2.457265,1.721 -0.51566,0.73626 h 22.729063 a 5.5000015,5.5000015 0 1 0 0,-11.000001 h -15.024952 l -1.721003,2.45726"
-                     id="Sketch003_w0002-3-9"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809-6-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="47.57201"
-                     cx="-60.807976" />
-                  <circle
-                     id="circle4804-0-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="35.223797"
-                     cx="-30.546511" />
-                  <circle
-                     id="circle4806-6-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="35.223797"
-                     cx="-90.546516" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -47.292498,32.181072 -2.457265,-1.720999 0.515662,-0.736261 h -22.624825 l 0.515658,0.736261 -2.457264,1.720999 -1.721003,-2.45726 H -90.5465 a 5.5000001,5.5000001 0 1 0 0,11 h 22.729074 l -0.515657,-0.73626 2.457262,-1.721 1.721004,2.45726 h 7.216605 l 1.721001,-2.45726 2.457265,1.721 -0.515657,0.73626 h 22.72906 a 5.5000001,5.5000001 0 1 0 0,-11 h -15.024952 l -1.721003,2.45726"
-                     id="Sketch003_w0002-6-2"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4809-0-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="35.223797"
-                     cx="-60.546509" />
-                </g>
-                <g
-                   transform="translate(109.18744,-21.278888)"
-                   id="Sketch005-3">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -88.331129,5.3424623 h 35.500001 v -3 h -3 v -9.53 h 3 v -3.0000003 h -35.500001 v 3.0000003 l 3,-1.9e-5 v 9.530038 l -3,-1.9e-5 v 3"
-                     id="Sketch005_w0000"
-                     inkscape:connector-curvature="0" />
-                  <title
-                     id="title4829">joint</title>
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -50.748723,5.3190383 h 35.5 v -3 h -3 v -9.53 h 3 v -3.0000003 h -35.5 v 3.0000003 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-41"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -88.168587,-11.84002 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 V -14.84 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-9"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -50.586186,-11.86344 h 35.5 v -3 h -3 v -9.53 h 3 v -3 h -35.5 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-41-8"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -88.087869,-29.166921 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-7"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -50.505468,-29.190341 h 35.499997 v -3 h -3 v -9.53 h 3 v -3 h -35.499997 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-41-84"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -87.925329,-46.349401 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-9-3"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -50.342928,-46.372821 h 35.499997 v -3 h -3 v -9.53 h 3 v -3 h -35.499997 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-41-8-6"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -87.723533,-63.748513 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-3"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -50.141132,-63.771933 h 35.5 v -3 h -3 v -9.53 h 3 v -3 h -35.5 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-41-89"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -87.560993,-80.930993 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-9-1"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -49.978592,-80.954413 h 35.5 v -3 h -3 v -9.53 h 3 v -3 h -35.5 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
-                     id="Sketch005_w0000-41-8-2"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -87.480273,-98.257893 h 35.500001 v -2.999997 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 2.999997"
-                     id="Sketch005_w0000-7-8"
-                     inkscape:connector-curvature="0" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -49.897872,-98.281313 h 35.49999 v -2.999997 h -2.99999 v -9.53 h 2.99999 v -3 h -35.49999 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 2.999997"
-                     id="Sketch005_w0000-41-84-1"
-                     inkscape:connector-curvature="0" />
-                </g>
-                <g
-                   transform="translate(-91.262304,-146.73451)"
-                   id="Sketch-6">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873">coxa_up</title>
-                </g>
-                <g
-                   transform="translate(-50.618152,-121.80033)"
-                   id="Sketch005-9">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893">coxa_down</title>
-                </g>
-                <g
-                   transform="translate(28.005864,-229.21903)"
-                   id="Sketch004-8-9">
-                  <circle
-                     id="circle4768-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-5"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-4">femur_up</title>
-                </g>
-                <g
-                   transform="translate(28.255108,-216.35506)"
-                   id="Sketch004-8-3">
-                  <circle
-                     id="circle4768-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-6"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-9">femur_up</title>
-                </g>
-                <g
-                   transform="translate(28.080597,-203.85374)"
-                   id="Sketch004-8-9-2">
-                  <circle
-                     id="circle4768-2-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-4-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-5-9"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-8-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-1-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-2-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-2-9"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-2-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-4-8">femur_up</title>
-                </g>
-                <g
-                   transform="translate(28.217741,-191.13242)"
-                   id="Sketch004-8-5">
-                  <circle
-                     id="circle4768-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-52"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-22"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-6">femur_up</title>
-                </g>
-                <g
-                   transform="translate(28.04323,-178.6311)"
-                   id="Sketch004-8-9-5">
-                  <circle
-                     id="circle4768-2-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-4-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-5-6"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-8-66"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-1-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-2-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-2-96"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-2-9"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-4-5">femur_up</title>
-                </g>
-                <g
-                   transform="translate(28.292475,-165.76713)"
-                   id="Sketch004-8-3-1">
-                  <circle
-                     id="circle4768-1-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-6-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-6-5"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-2-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-4-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-8-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-3-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-0-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-9-3">femur_up</title>
-                </g>
-                <g
-                   transform="translate(28.117964,-153.26581)"
-                   id="Sketch004-8-9-2-3">
-                  <circle
-                     id="circle4768-2-5-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="50.776909" />
-                  <circle
-                     id="circle4770-4-2-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="3.5"
-                     cy="9.6285372"
-                     cx="-9.2230921" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
-                     id="Sketch004_w0002-5-9-0"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4773-8-6-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.5"
-                     cy="9.6285372"
-                     cx="20.776907" />
-                  <circle
-                     id="circle4775-1-8-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="43.776909" />
-                  <circle
-                     id="circle4777-2-1-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-2.2230926" />
-                  <circle
-                     id="circle4779-2-9-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="57.776909" />
-                  <circle
-                     id="circle4781-2-5-6"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="9.6285372"
-                     cx="-16.223093" />
-                  <title
-                     id="title4783-4-8-9">femur_up</title>
-                </g>
-                <g
-                   transform="rotate(-180,2.4559507,-43.687897)"
-                   id="Sketch-6-1">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000-9"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873-9">coxa_up</title>
-                </g>
-                <g
-                   transform="translate(-91.596768,-106.40581)"
-                   id="Sketch-6-3">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000-3"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867-08"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873-6">coxa_up</title>
-                </g>
-                <g
-                   transform="rotate(180,2.2887187,-23.523552)"
-                   id="Sketch-6-1-7">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000-9-1"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867-0-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869-1-1"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871-4-7"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873-9-6">coxa_up</title>
-                </g>
-                <g
-                   transform="translate(-91.351404,-66.239367)"
-                   id="Sketch-6-0">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000-90"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867-9"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871-2"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873-2">coxa_up</title>
-                </g>
-                <g
-                   transform="rotate(180,2.4113997,-3.440332)"
-                   id="Sketch-6-1-0">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000-9-4"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867-0-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869-1-13"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871-4-0"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873-9-0">coxa_up</title>
-                </g>
-                <g
-                   transform="translate(-79.08613,-23.848899)"
-                   id="Sketch-6-3-6">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
-                     id="Sketch_w0000-3-7"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4867-08-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="3.5"
-                     cy="19.684828"
-                     cx="38.0826" />
-                  <circle
-                     id="circle4869-0-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="31.082598" />
-                  <circle
-                     id="circle4871-0-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.2"
-                     cy="19.684828"
-                     cx="45.0826" />
-                  <title
-                     id="title4873-6-0">coxa_up</title>
-                </g>
-                <g
-                   transform="rotate(-180,25.08232,-54.723372)"
-                   id="Sketch005-9-2">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4-4"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891-3"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893-6">coxa_down</title>
-                </g>
-                <g
-                   transform="translate(-51.190868,-81.595698)"
-                   id="Sketch005-9-3">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4-7"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891-9"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893-8">coxa_down</title>
-                </g>
-                <g
-                   transform="rotate(180,24.795963,-34.621059)"
-                   id="Sketch005-9-2-3">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4-4-3"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891-3-4"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893-6-4">coxa_down</title>
-                </g>
-                <g
-                   transform="translate(-52.105663,-40.966997)"
-                   id="Sketch005-9-1">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4-3"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891-8"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893-2">coxa_down</title>
-                </g>
-                <g
-                   transform="rotate(180,24.854009,-14.363983)"
-                   id="Sketch005-9-2-5">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4-4-7"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891-3-5"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893-6-46">coxa_down</title>
-                </g>
-                <g
-                   transform="rotate(-180,47.844563,-3.6114904)"
-                   id="Sketch005-9-3-4">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
-                     id="Sketch005_w0000-4-7-5"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4891-9-7"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
-                     r="1.5"
-                     cy="-4.0175486"
-                     cx="38.707867" />
-                  <title
-                     id="title4893-8-0">coxa_down</title>
-=======
-                   transform="matrix(0,-0.99999993,1.0000001,0,302.92904,75.848493)"
-                   id="Sketch-36">
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 52.893007,-80.360153 22.5,0 0,-11.8 -22.5,0 0,11.8"
-                     id="Sketch_w0000-75"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4495"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-86.260155"
-                     cx="78.393005" />
-                  <circle
-                     id="circle4497"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-86.260155"
-                     cx="49.893009" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -53.106993,-92.160153 -22.5,0 0,11.8 22.5,0 0,-11.8"
-                     id="Sketch_w0003-35"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4500"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-86.260155"
-                     cx="-78.607002" />
-                  <circle
-                     id="circle4502"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-86.260155"
-                     cx="-50.106991" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 40.118477,-4.6450826 20.39193,9.5089109 4.98689,-10.6944319 -20.39192,-9.5089104 -4.9869,10.6944314"
-                     id="Sketch_w0006-6"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4505"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="0.78446722"
-                     cx="65.722778" />
-                  <circle
-                     id="circle4507"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-11.260153"
-                     cx="39.893009" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -45.319373,-15.339514 -20.39192,9.5089104 4.9869,10.6944319 20.39192,-9.5089109 -4.9869,-10.6944314"
-                     id="Sketch_w0009-2"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4510"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="0.78446722"
-                     cx="-65.936768" />
-                  <circle
-                     id="circle4512"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-11.260153"
-                     cx="-40.106991" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 65.497297,-166.6897 -4.98689,-10.69443 -20.39193,9.50891 4.9869,10.69443 20.39192,-9.50891"
-                     id="Sketch_w0012-9"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4515"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-173.30476"
-                     cx="65.722778" />
-                  <circle
-                     id="circle4517"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-161.26015"
-                     cx="39.893009" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -60.724393,-177.38413 -4.9869,10.69443 20.39192,9.50891 4.9869,-10.69443 -20.39192,-9.50891"
-                     id="Sketch_w0015-1"
-                     inkscape:connector-curvature="0" />
-                  <circle
-                     id="circle4520"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-173.30476"
-                     cx="-65.936768" />
-                  <circle
-                     id="circle4522"
-                     style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     r="1.2"
-                     cy="-161.26015"
-                     cx="-40.106991" />
-                  <path
-                     style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m 69.493007,-99.260151 a 13,13 0 1 1 0,25.999998 29.5945,29.5945 0 0 0 -6.34233,58.501317 13.000001,13.000001 0 1 1 -10.98808,23.5640019 123.68,123.68 0 0 0 -104.53919,0 13,13 0 0 1 -10.98807,-23.5640019 29.5945,29.5945 0 0 0 -6.34233,-58.501317 13,13 0 0 1 0,-25.999998 29.5945,29.5945 0 0 0 6.34233,-58.501319 13,13 0 0 1 10.98807,-23.564 123.68,123.68 0 0 0 104.53919,0 13,13 0 0 1 10.98808,23.564 29.5945,29.5945 0 0 0 6.34233,58.501319"
-                     id="Sketch_w0018-2"
-                     inkscape:connector-curvature="0" />
-                  <title
-                     id="title4525">body</title>
->>>>>>> 21c55758bc14e1bfc9153846a80b9260b04123a1
-                </g>
-              </g>
+                 id="title4829">joint</title>
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -50.748723,5.3190383 h 35.5 v -3 h -3 v -9.53 h 3 v -3.0000003 h -35.5 v 3.0000003 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-41"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -88.168587,-11.84002 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 V -14.84 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-9"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -50.586186,-11.86344 h 35.5 v -3 h -3 v -9.53 h 3 v -3 h -35.5 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-41-8"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -88.087869,-29.166921 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-7"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -50.505468,-29.190341 h 35.499997 v -3 h -3 v -9.53 h 3 v -3 h -35.499997 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-41-84"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -87.925329,-46.349401 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-9-3"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -50.342928,-46.372821 h 35.499997 v -3 h -3 v -9.53 h 3 v -3 h -35.499997 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-41-8-6"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -87.723533,-63.748513 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-3"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -50.141132,-63.771933 h 35.5 v -3 h -3 v -9.53 h 3 v -3 h -35.5 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-41-89"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -87.560993,-80.930993 h 35.500001 v -3 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-9-1"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -49.978592,-80.954413 h 35.5 v -3 h -3 v -9.53 h 3 v -3 h -35.5 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 3"
+                 id="Sketch005_w0000-41-8-2"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -87.480273,-98.257893 h 35.500001 v -2.999997 h -3 v -9.53 h 3 v -3 h -35.500001 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 2.999997"
+                 id="Sketch005_w0000-7-8"
+                 inkscape:connector-curvature="0" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m -49.897872,-98.281313 h 35.49999 v -2.999997 h -2.99999 v -9.53 h 2.99999 v -3 h -35.49999 v 3 l 3,-2e-5 v 9.53004 l -3,-2e-5 v 2.999997"
+                 id="Sketch005_w0000-41-84-1"
+                 inkscape:connector-curvature="0" />
             </g>
+            <g
+               transform="translate(-91.262304,-146.73451)"
+               id="Sketch-6">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873">coxa_up</title>
+            </g>
+            <g
+               transform="translate(-50.618152,-121.80033)"
+               id="Sketch005-9">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+                 id="Sketch005_w0000-4"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4891"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.5"
+                 cy="-4.0175486"
+                 cx="38.707867" />
+              <title
+                 id="title4893">coxa_down</title>
+            </g>
+            <g
+               transform="translate(28.005864,-229.21903)"
+               id="Sketch004-8-9">
+              <circle
+                 id="circle4768-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-5"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-8"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-4">femur_up</title>
+            </g>
+            <g
+               transform="translate(28.255108,-216.35506)"
+               id="Sketch004-8-3">
+              <circle
+                 id="circle4768-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-6"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-6"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-8"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-0"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-9">femur_up</title>
+            </g>
+            <g
+               transform="translate(28.080597,-203.85374)"
+               id="Sketch004-8-9-2">
+              <circle
+                 id="circle4768-2-5"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-4-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-5-9"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-8-6"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-1-8"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-2-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-2-9"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-2-5"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-4-8">femur_up</title>
+            </g>
+            <g
+               transform="translate(28.217741,-191.13242)"
+               id="Sketch004-8-5">
+              <circle
+                 id="circle4768-5"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-52"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-5"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-8"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-6"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-22"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-6">femur_up</title>
+            </g>
+            <g
+               transform="translate(28.04323,-178.6311)"
+               id="Sketch004-8-9-5">
+              <circle
+                 id="circle4768-2-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-4-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-5-6"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-8-66"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-1-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-2-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-2-96"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-2-9"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-4-5">femur_up</title>
+            </g>
+            <g
+               transform="translate(28.292475,-165.76713)"
+               id="Sketch004-8-3-1">
+              <circle
+                 id="circle4768-1-6"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-6-0"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-6-5"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-2-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-4-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-8-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-3-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-0-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-9-3">femur_up</title>
+            </g>
+            <g
+               transform="translate(28.117964,-153.26581)"
+               id="Sketch004-8-9-2-3">
+              <circle
+                 id="circle4768-2-5-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="50.776909" />
+              <circle
+                 id="circle4770-4-2-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="3.5"
+                 cy="9.6285372"
+                 cx="-9.2230921" />
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 50.776908,4.1285376 a 11,5.5000002 0 1 1 0,11.0000004 H 28.047819 l 0.515658,-0.736262 -2.457264,-1.721003 -1.721004,2.457265 h -7.216603 l -1.721003,-2.457265 -2.457265,1.721003 0.515658,0.736262 H -9.2230925 a 11,5.5000002 0 0 1 0,-11.0000004 H 5.8018867 L 7.5228898,6.585802 9.9801542,4.864799 9.4644962,4.1285376 H 32.089319 l -0.515658,0.7362614 2.457264,1.721003 1.721003,-2.4572644 h 15.02498"
+                 id="Sketch004_w0002-5-9-0"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4773-8-6-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.5"
+                 cy="9.6285372"
+                 cx="20.776907" />
+              <circle
+                 id="circle4775-1-8-8"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="43.776909" />
+              <circle
+                 id="circle4777-2-1-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-2.2230926" />
+              <circle
+                 id="circle4779-2-9-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="57.776909" />
+              <circle
+                 id="circle4781-2-5-6"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 r="1.2"
+                 cy="9.6285372"
+                 cx="-16.223093" />
+              <title
+                 id="title4783-4-8-9">femur_up</title>
+            </g>
+            <g
+               transform="rotate(-180,2.4559507,-43.687897)"
+               id="Sketch-6-1">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000-9"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867-0"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873-9">coxa_up</title>
+            </g>
+            <g
+               transform="translate(-91.596768,-106.40581)"
+               id="Sketch-6-3">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000-3"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867-08"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869-0"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871-0"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873-6">coxa_up</title>
+            </g>
+            <g
+               transform="rotate(180,2.2887187,-23.523552)"
+               id="Sketch-6-1-7">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000-9-1"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867-0-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869-1-1"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871-4-7"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873-9-6">coxa_up</title>
+            </g>
+            <g
+               transform="translate(-91.351404,-66.239367)"
+               id="Sketch-6-0">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000-90"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867-9"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871-2"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873-2">coxa_up</title>
+            </g>
+            <g
+               transform="rotate(180,2.4113997,-3.440332)"
+               id="Sketch-6-1-0">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000-9-4"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867-0-5"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869-1-13"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871-4-0"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873-9-0">coxa_up</title>
+            </g>
+            <g
+               transform="translate(-79.08613,-23.848899)"
+               id="Sketch-6-3-6">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 38.082598,27.434827 h 13 v 3 h 3 v -3 h 11.8 v 3 h 3 V 8.9348272 h -3 v 2.9999998 h -11.8 V 8.9348272 h -3 v 2.9999998 h -13 a 11,7.75 0 0 0 0,15.5"
+                 id="Sketch_w0000-3-7"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4867-08-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="3.5"
+                 cy="19.684828"
+                 cx="38.0826" />
+              <circle
+                 id="circle4869-0-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="31.082598" />
+              <circle
+                 id="circle4871-0-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.2"
+                 cy="19.684828"
+                 cx="45.0826" />
+              <title
+                 id="title4873-6-0">coxa_up</title>
+            </g>
+            <g
+               transform="rotate(-180,25.08232,-54.723372)"
+               id="Sketch005-9-2">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+                 id="Sketch005_w0000-4-4"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4891-3"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.5"
+                 cy="-4.0175486"
+                 cx="38.707867" />
+              <title
+                 id="title4893-6">coxa_down</title>
+            </g>
+            <g
+               transform="translate(-51.190868,-81.595698)"
+               id="Sketch005-9-3">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+                 id="Sketch005_w0000-4-7"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4891-9"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.5"
+                 cy="-4.0175486"
+                 cx="38.707867" />
+              <title
+                 id="title4893-8">coxa_down</title>
+            </g>
+            <g
+               transform="rotate(180,24.795963,-34.621059)"
+               id="Sketch005-9-2-3">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+                 id="Sketch005_w0000-4-4-3"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4891-3-4"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.5"
+                 cy="-4.0175486"
+                 cx="38.707867" />
+              <title
+                 id="title4893-6-4">coxa_down</title>
+            </g>
+            <g
+               transform="translate(-52.105663,-40.966997)"
+               id="Sketch005-9-1">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+                 id="Sketch005_w0000-4-3"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4891-8"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.5"
+                 cy="-4.0175486"
+                 cx="38.707867" />
+              <title
+                 id="title4893-2">coxa_down</title>
+            </g>
+            <g
+               transform="rotate(180,24.854009,-14.363983)"
+               id="Sketch005-9-2-5">
+              <path
+                 style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+                 id="Sketch005_w0000-4-4-7"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 id="circle4891-3-5"
+                 style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+                 r="1.5"
+                 cy="-4.0175486"
+                 cx="38.707867" />
+              <title
+                 id="title4893-6-46">coxa_down</title>
+            </g>
+            <g
+               transform="rotate(-180,47.844563,-3.6114904)"
+               id="Sketch005-9-3-4"><path
+   style="fill:none;fill-rule:evenodd;stroke:#006633;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   d="m 51.707867,3.7324517 v 3 h 3 v -3 h 11.8 v 3 h 3 V -14.767548 h -3 v 3 h -11.8 v -3 h -3 v 3 a 17,7.75 0 0 0 0,15.4999997"
+   id="Sketch005_w0000-4-7-5"
+   inkscape:connector-curvature="0" />
+<circle
+   id="circle4891-9-7"
+   style="fill:none;stroke:#0000ff;stroke-width:0.34999999;stroke-miterlimit:4;stroke-dasharray:none"
+   r="1.5"
+   cy="-4.0175486"
+   cx="38.707867" />
+<title
+   id="title4893-8-0">coxa_down</title>
+
+=======
+                   transform=&quot;matrix(0,-0.99999993,1.0000001,0,302.92904,75.848493)&quot;
+                   id=&quot;Sketch-36&quot;&gt;
+                  <title
+   id="title4525">body</title>
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; 21c55758bc14e1bfc9153846a80b9260b04123a1
+                </g>
           </g>
         </g>
       </g>
     </g>
   </g>
+</g>
 </svg>
