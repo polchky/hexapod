@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="42.6350614349mm" height="22.3359815968mm" viewBox="0 0 42.6350614349 22.3359815968" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch" transform="translate(-26.665527,30.852818) scale(1,-1)">
-<path id="Sketch_w0000"  d="M 38.0825978969 27.4348271656 L 51.0825978969 27.4348271656 L 51.0825978969 30.4348271656 L 54.0825978969 30.4348271656 L 54.0825978969 27.4348271656 L 65.8825978969 27.4348271656 L 65.8825978969 30.4348271656 L 68.8825978969 30.4348271656 L 68.8825978969 8.93482716562 L 65.8825978969 8.93482716562 L 65.8825978969 11.9348271656 L 54.0825978969 11.9348271656 L 54.0825978969 8.93482716562 L 51.0825978969 8.93482716562 L 51.0825978969 11.9348271656 L 38.0825978969 11.9348271656 A 11.0 7.75 2.84217094304e-14 0 0 38.0825978969 27.4348271656 " stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="38.0825978969" cy="19.6848271656" r="3.5" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="31.0825978969" cy="19.6848271656" r="1.2" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="45.0825978969" cy="19.6848271656" r="1.2" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<svg width="42.1238778952mm" height="22.3259583901mm" viewBox="0 0 42.1238778952 22.3259583901" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch" transform="translate(-26.966025,30.846062) scale(1,-1)">
+<path id="Sketch_w0000"  d="M 37.876923545 27.4330829386 L 50.876923545 27.4330829386 L 50.876923545 30.4330829386 L 53.876923545 30.4330829386 L 53.876923545 27.4330829386 L 65.676923545 27.4330829386 L 65.676923545 30.4330829386 L 68.676923545 30.4330829386 L 68.676923545 8.93308293864 L 65.676923545 8.93308293864 L 65.676923545 11.9330829386 L 53.876923545 11.9330829386 L 53.876923545 8.93308293864 L 50.876923545 8.93308293864 L 50.876923545 11.9330829386 L 37.876923545 11.9330829386 A 10.5 7.75 0.0 0 0 37.876923545 27.4330829386 " stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="37.876923545" cy="19.6830829386" r="3.5" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="31.376923545" cy="19.6830829386" r="1.2" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="44.376923545" cy="19.6830829386" r="1.2" stroke="#0000ff" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>coxa_up</title>
 </g>
 </svg>

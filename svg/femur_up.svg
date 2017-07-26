@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="83.5964887026mm" height="12.6391468373mm" viewBox="0 0 83.5964887026 12.6391468373" xmlns="http://www.w3.org/2000/svg" version="1.1">
-<g id="Sketch004" transform="translate(21.021337,15.948111) scale(1,-1)">
-<circle cx="50.7769075195" cy="9.62853763064" r="3.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-9.22309248045" cy="9.62853763064" r="3.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<path id="Sketch004_w0002"  d="M 50.7769075195 4.12853763064 A 11.0 5.5 5.34194647714e-14 1 1 50.7769075195 15.1285376306 L 28.0478189444 15.1285376306 L 28.5634769357 14.392276289 L 26.1062125187 12.6712732137 L 24.3852094434 15.1285376306 L 17.1686055957 15.1285376306 L 15.4476025204 12.6712732137 L 12.9903381034 14.392276289 L 13.5059960947 15.1285376306 L -9.22309248045 15.1285376306 A 11.0 5.5 -0.0 0 1 -9.22309248045 4.12853763064 L 5.80188672087 4.12853763064 L 7.52288979618 6.58580204758 L 9.98015421312 4.86479897226 L 9.46449622189 4.12853763064 L 32.0893188172 4.12853763064 L 31.573660826 4.86479897226 L 34.0309252429 6.58580204758 L 35.7519283182 4.12853763064 L 50.7769075195 4.12853763064 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
-<circle cx="20.7769075195" cy="9.62853763064" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="43.7769075195" cy="9.62853763064" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-2.22309248045" cy="9.62853763064" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="57.7769075195" cy="9.62853763064" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
-<circle cx="-16.2230924805" cy="9.62853763064" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<svg width="82.5771120555mm" height="12.6191590599mm" viewBox="0 0 82.5771120555 12.6191590599" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Sketch004" transform="translate(19.577950,15.859701) scale(1,-1)">
+<circle cx="51.7106059254" cy="9.5501211023" r="3.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-8.28939407456" cy="9.5501211023" r="3.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<path id="Sketch004_w0002"  d="M 51.7106059254 4.0501211023 A 10.5 5.5 -5.68954917913e-14 0 1 51.7106059254 15.0501211023 L 31.4436377259 15.0501211023 L 31.4436377259 12.0501211023 L 28.4436377259 12.0501211023 L 28.4436377259 15.0501211023 L 18.1023040016 15.0501211023 L 16.3813009263 12.5928566854 L 13.9240365093 14.3138597607 L 14.4396945006 15.0501211023 L -8.28939407456 15.0501211023 A 10.5 5.5 2.27581967165e-14 0 1 -8.28939407456 4.0501211023 L 6.73558512676 4.0501211023 L 8.45658820207 6.50738551924 L 10.913852619 4.78638244393 L 10.3981946278 4.0501211023 L 28.4436377259 4.0501211023 L 28.4436377259 7.0501211023 L 31.4436377259 7.0501211023 L 31.4436377259 4.0501211023 L 51.7106059254 4.0501211023 " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<circle cx="21.2292935468" cy="9.5501211023" r="1.5" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="45.2106059254" cy="9.5501211023" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-1.78939407456" cy="9.5501211023" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="58.2106059254" cy="9.5501211023" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<circle cx="-14.7893940746" cy="9.5501211023" r="1.2" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
 <title>femur_up</title>
 </g>
 </svg>
