@@ -8,7 +8,7 @@
 #define PS2_SEL        4  
 #define PS2_CLK        6  
 
-#define DELAY_MS       20 // Delay between gamepad readings
+#define DELAY_MS       30 // Delay between gamepad readings
 
 /******************************************************************
  * select modes of PS2 controller:
