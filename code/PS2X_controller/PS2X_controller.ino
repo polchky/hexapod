@@ -44,18 +44,18 @@ void set_s_data(){
   s_data[6] = 0x00;
   for (int i=0; i<4; i++){
     s_data[i] = ps2x.Analog(sticks[i]) >> 1;
-    s_data[6] = s_data[6] << 1 | ps2x.Analog(sticks[i]) >> 7;
+    s_data[6] |= ps2x.Analog(sticks[i]) >> 7 << 4 - i;
   }
 
   // left and right buttons
   s_data[4] = s_data[5] = 0x00;
   for (int i=0; i<7; i++){
-    s_data[4] = s_data[4] << 1 | ps2x.Button(l_buttons[i]);
-    s_data[5] = s_data[5] << 1 | ps2x.Button(r_buttons[i]);
+    s_data[4] |= ps2x.Button(l_buttons[i]) << 6 - i;
+    s_data[5] |= ps2x.Button(r_buttons[i]) << 6 - i;
   }
 
   // middle buttons
-  s_data[6] = s_data[6] << 2 | ps2x.Button(m_buttons[0]) << 1| ps2x.Button(m_buttons[1]);
+  s_data[6] |= ps2x.Button(m_buttons[0]) << 6 | ps2x.Button(m_buttons[1]) << 5;
 
   // set message starting bit
   s_data[0] |= 1 << 7;
