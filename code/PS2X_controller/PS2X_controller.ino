@@ -8,7 +8,7 @@
 #define PS2_SEL        4  
 #define PS2_CLK        6  
 
-#define DELAY_MS       30 // Delay between gamepad readings
+int delay_ms = 30; // Delay between gamepad readings
 
 /******************************************************************
  * select modes of PS2 controller:
@@ -83,5 +83,11 @@ void loop() {
       Serial.write(s_data[i]);
     }
   }
-  delay(DELAY_MS);  
+
+  // change delay 
+  while(Serial.available()){
+    delay_ms = Serial.read();
+  }
+  
+  delay(delay_ms);  
 }
