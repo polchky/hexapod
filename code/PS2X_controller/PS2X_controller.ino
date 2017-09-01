@@ -8,7 +8,10 @@
 #define PS2_SEL        4  
 #define PS2_CLK        6  
 
-int delay_ms = 30; // Delay between gamepad readings
+#define DEBUG          true
+bool request;
+
+int delay_ms = 0; // Delay between gamepad readings
 
 /******************************************************************
  * select modes of PS2 controller:
@@ -61,11 +64,20 @@ void set_s_data(){
   s_data[0] |= 1 << 7;
 }
 
+void send_s_data() {
+  if(DEBUG){digitalWrite(LED_BUILTIN, HIGH);}
+  for(int i=0; i < 7; i++) {
+    Serial.write(s_data[i]);
+  }
+  if(DEBUG){digitalWrite(LED_BUILTIN, LOW);}
+}
+
 void setup(){
  
-  Serial.begin(57600);
+  Serial.begin(9600);
   
   ps2_connect();
+  pinMode(LED_BUILTIN, OUTPUT);
 }
 
 void loop() {
@@ -75,19 +87,32 @@ void loop() {
     ps2_connect();
     return;
   }
-
   // set and send data
   set_s_data();
+
+  request = false;
+  while(Serial.available()){
+    Serial.read();
+    request = true;
+  }
+
+  if(request) {
+    send_s_data();
+  }
+  /**
+  set_s_data();
   if(Serial.availableForWrite() >= 7){
+    if(DEBUG){digitalWrite(LED_BUILTIN, HIGH);}
     for (int i=0; i<7; i++){
       Serial.write(s_data[i]);
     }
+    if(Serial.available()){
+      delay_ms = int(Serial.read()) * 5;
+      //Serial.println(delay_ms);
+    }
+    if(DEBUG){digitalWrite(LED_BUILTIN, LOW);}
   }
-
-  // change delay 
-  while(Serial.available()){
-    delay_ms = Serial.read();
-  }
+  **/
   
   delay(delay_ms);  
 }

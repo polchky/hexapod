@@ -7,10 +7,10 @@ l_buttons = ['PSB_PAD_UP', 'PSB_PAD_RIGHT', 'PSB_PAD_DOWN', 'PSB_PAD_LEFT', 'PSB
 r_buttons = ['PSB_TRIANGLE', 'PSB_CIRCLE', 'PSB_CROSS', 'PSB_SQUARE', 'PSB_R1', 'PSB_R2', 'PSB_R3']
 m_buttons = ['PSB_SELECT', 'PSB_START']
 
-max_time = 50
+max_time_ms = 100
 
-uart = machine.UART(2, 57600)
-uart.init(57600, bits=8, parity=None, stop=1)
+uart = machine.UART(2, 9600)
+uart.init(9600, bits=8, parity=None, stop=1)
 commands = {}
 
 def store_s_data(message):
@@ -32,27 +32,62 @@ def store_s_data(message):
 
 
 def read_s_data():
-
+    checks = []
+    message = []
     start = time.ticks_ms()
-
+    #send request byte
+    uart.write(bytes([0x00]))
+    while(len(message) < 7):
+        if(len(message)):
+            print(message)
+        # timetout
+        if time.ticks_ms() - start > max_time_ms:
+            return False
+        # read incoming bytes
+        checks.append(time.ticks_ms() - start)
+        b = uart.read()
+        checks.append(time.ticks_ms() - start)
+        f = 'B' * len(b)
+        message += list(struct.unpack(f, b))
+        # find message start
+        while(len(message) and not message[0] >> 7):
+            del message[0]
+    checks.append(time.ticks_ms() - start)
+    # remove start bit
+    message[0] &= 127
+    store_s_data(message)
+    checks.append(time.ticks_ms() - start)
+    print(checks)
+    print(commands)
+    return True
+'''
+    return
     # search for message start
     while(uart.any() >= 7):
         if(time.ticks_ms() - start > max_time):
-            return False
+            return "timeout"
         b = struct.unpack('B', uart.read(1))[0]
         if(not b >> 7):
             continue
         # skip if newer message in serial
         if(uart.any() >= 13):
+            print("skipping " + str(uart.any()))
             uart.read(6)
             continue
         # save message
         b &= 127
         message = [b] + list(struct.unpack('BBBBBB', uart.read(6)))
         store_s_data(message)
+        print(time.ticks_ms() - start)
         return True
-    return False
+    print(uart.any())
+    return "not enough"
+    '''
 
-while(True):
-    read_s_data()
-    time.sleep_ms(50)
+def test(byte_ms):
+    global uart
+    uart.write(bytes([byte_ms]))
+    for i in range(50):
+        if(read_s_data()):
+            print("read read")
+        time.sleep_ms(20)
