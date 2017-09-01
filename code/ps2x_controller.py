@@ -12,7 +12,7 @@ m_buttons = ['PSB_SELECT', 'PSB_START']
 
 buttons = l_buttons + r_buttons + m_buttons
 
-uart = machine.UART(2, baud)
+uart = machine.UART(2, baud_rate)
 uart.init(baud_rate, bits=8, parity=None, stop=1)
 
 commands = {}
@@ -65,3 +65,11 @@ def update():
     store_data(message)
     #print(time.ticks_ms() - start)
     return True
+
+def test():
+    while(True):
+        if not update():
+            continue
+        for button in buttons:
+            if clicked(button):
+                print(button)
