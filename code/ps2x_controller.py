@@ -3,7 +3,7 @@ import time
 import struct
 
 max_time_ms = 100
-baud = 115200
+baud_rate = 115200
 
 sticks = ['PSS_LX', 'PSS_LY', 'PSS_RX', 'PSS_RY']
 l_buttons = ['PSB_PAD_UP', 'PSB_PAD_RIGHT', 'PSB_PAD_DOWN', 'PSB_PAD_LEFT', 'PSB_L1', 'PSB_L2', 'PSB_L3']
@@ -13,7 +13,7 @@ m_buttons = ['PSB_SELECT', 'PSB_START']
 buttons = l_buttons + r_buttons + m_buttons
 
 uart = machine.UART(2, baud)
-uart.init(baud, bits=8, parity=None, stop=1)
+uart.init(baud_rate, bits=8, parity=None, stop=1)
 
 commands = {}
 # init buttons state
@@ -24,7 +24,7 @@ commands_prev = commands
 def clicked(button):
     return not commands_prev[button] and commands[button]
 
-def store_s_data(message):
+def store_data(message):
     global commands
     global commands_prev
     commands_prev = commands
@@ -44,7 +44,7 @@ def store_s_data(message):
 
     return
 
-def read_s_data():
+def update():
     message = []
     start = time.ticks_ms()
     #send request byte
@@ -62,15 +62,6 @@ def read_s_data():
             del message[0]
     # remove start bit
     message[0] &= 127
-    store_s_data(message)
+    store_data(message)
     #print(time.ticks_ms() - start)
     return True
-
-def test():
-    while(True):
-
-        if not read_s_data():
-            print(False)
-        for button in buttons:
-            if(clicked(button)):
-                print(button)
