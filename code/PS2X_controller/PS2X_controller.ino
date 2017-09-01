@@ -9,9 +9,12 @@
 #define PS2_CLK        6  
 
 #define DEBUG          true
+#define BAUD_RATE      115200
+
+#define READ_DELAY_MS  0 // Delay between gamepad readings
+
 bool request;
 
-int delay_ms = 0; // Delay between gamepad readings
 
 /******************************************************************
  * select modes of PS2 controller:
@@ -74,7 +77,7 @@ void send_s_data() {
 
 void setup(){
  
-  Serial.begin(9600);
+  Serial.begin(BAUD_RATE);
   
   ps2_connect();
   pinMode(LED_BUILTIN, OUTPUT);
@@ -99,20 +102,6 @@ void loop() {
   if(request) {
     send_s_data();
   }
-  /**
-  set_s_data();
-  if(Serial.availableForWrite() >= 7){
-    if(DEBUG){digitalWrite(LED_BUILTIN, HIGH);}
-    for (int i=0; i<7; i++){
-      Serial.write(s_data[i]);
-    }
-    if(Serial.available()){
-      delay_ms = int(Serial.read()) * 5;
-      //Serial.println(delay_ms);
-    }
-    if(DEBUG){digitalWrite(LED_BUILTIN, LOW);}
-  }
-  **/
   
-  delay(delay_ms);  
+  delay(READ_DELAY_MS);  
 }
