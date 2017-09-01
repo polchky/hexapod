@@ -47,7 +47,7 @@ def store_data(message):
 def update():
     message = []
     start = time.ticks_ms()
-    #send request byte
+    # send request byte
     uart.write(bytes([0x00]))
     while(len(message) < 7):
         # timetout
@@ -67,6 +67,9 @@ def update():
     return True
 
 def test():
+    global commands
+    # ensure keyboard interrupt did not empty the commands
+    commands = commands_prev
     while(True):
         if not update():
             continue
